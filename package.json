@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "node": "^11.1.0",
+    "axios": "^0.18.0",
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "react-steam-api": "^1.0.19",
+    "steam-login": "^0.1.7"
   },
   "scripts": {
     "start": "react-scripts start",
